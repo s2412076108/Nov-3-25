@@ -1,0 +1,6 @@
+30bf21a Added README with explanation and output
+710c080 Added comments and formatted output for readability
+fd11470 Added functions for average and grade calculation
+29b93ee Renamed variables for clarity
+bc3382b Refactored code structure and indentation
+5e0aa5c Added messy version of student marks program
